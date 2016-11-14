@@ -241,3 +241,10 @@ figcaption {
 	margin-bottom: 15px;
 	border: 1px solid red;
 } */
+
+#submit {
+	width: 100px;
+	height: 30px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
